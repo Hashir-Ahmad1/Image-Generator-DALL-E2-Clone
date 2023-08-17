@@ -48,11 +48,11 @@ The Image Generator - DALL E2 Clone is a web application that enables users to c
 6. Create a `.env` file in the root directory and set environment variables:
 
 
-    -MONGODB_URL=your-mongodb-connection-url
-    -OPENAI_API_KEY=your-openai-api-key
-    -CLOUD_NAME=your-cloudinary-cloud-name
-    -CLOUD_API_KEY=your-cloudinary-api-key
-    -CLOUD_API_SECRET_KEY=your-cloudinary-api-secret-key
+-MONGODB_URL=your-mongodb-connection-url
+-OPENAI_API_KEY=your-openai-api-key
+-CLOUD_NAME=your-cloudinary-cloud-name
+-CLOUD_API_KEY=your-cloudinary-api-key
+-CLOUD_API_SECRET_KEY=your-cloudinary-api-secret-key
 
 #### Start the development server:
 - In the client directory: npm start
