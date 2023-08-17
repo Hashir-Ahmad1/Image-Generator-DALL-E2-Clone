@@ -15,8 +15,7 @@ An image generator application built using the MERN (MongoDB, Express, React, No
 
 The Image Generator - DALL E2 Clone is a web application that enables users to create imaginative images using the DALL-E AI model. Users can input prompts, and the application generates unique images based on those prompts.
 
-
-![HomePage_DallE](https://github.com/Hashir-Ahmad1/Image-Generator-DALL-E2-Clone/assets/107747904/223ccd6c-01de-4084-ba20-e39d404fbe72)
+![HomePage_DallE](https://github.com/Hashir-Ahmad1/Image-Generator-DALL-E2-Clone/assets/107747904/215b9c5d-92ce-4efd-b73e-c9b39ad2d89f)
 
 ## Features
 
@@ -48,11 +47,11 @@ The Image Generator - DALL E2 Clone is a web application that enables users to c
 6. Create a `.env` file in the root directory and set environment variables:
 
 
--MONGODB_URL=your-mongodb-connection-url
--OPENAI_API_KEY=your-openai-api-key
--CLOUD_NAME=your-cloudinary-cloud-name
--CLOUD_API_KEY=your-cloudinary-api-key
--CLOUD_API_SECRET_KEY=your-cloudinary-api-secret-key
+MONGODB_URL=your-mongodb-connection-url
+OPENAI_API_KEY=your-openai-api-key
+CLOUD_NAME=your-cloudinary-cloud-name
+CLOUD_API_KEY=your-cloudinary-api-key
+CLOUD_API_SECRET_KEY=your-cloudinary-api-secret-key
 
 #### Start the development server:
 - In the client directory: npm start
@@ -71,6 +70,7 @@ The application uses APIs for generating images and managing posts. Check the in
 
 1. dalleRoutes.js: For generating images using the OpenAI DALL-E model.
 2. postRoutes.js: For creating and fetching posts from the MongoDB database.
-![CreateImg_DallE](https://github.com/Hashir-Ahmad1/Image-Generator-DALL-E2-Clone/assets/107747904/670394da-ab39-4869-be5e-80512492279a)
+
+   ![CreateImg_DallE](https://github.com/Hashir-Ahmad1/Image-Generator-DALL-E2-Clone/assets/107747904/1ecb6775-a40a-4514-94ba-5f6843a2a38e)
 
 ==========================================================================
